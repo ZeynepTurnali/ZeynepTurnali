@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&locale=en&theme=radical" alt="zeynepturnali" /></p>
 
 ![ZeynepTurnali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&theme=radical)
+
+![ZeynepTurnali's GitHub stats](https://github-readme-stats.vercel.app/api?username=azeynepturnali&hide=contribs,prs)
+
