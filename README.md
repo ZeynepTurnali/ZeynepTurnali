@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **zeynepturnali23@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeynepturnali&theme=darkhub)](https://github.com/zeynepturnali/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zeynepturnali&theme=darkhub&title=Repositories,Commit,Followers)](https://github.com/zeynepturnali/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
