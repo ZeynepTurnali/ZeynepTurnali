@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeynepturnali/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/zeynepturnali/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeynepturnali/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F593841900850307567%2F&psig=AOvVaw2qYbmSG7n72KajtSgP8THn&ust=1618775680614000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLioxr2HhvACFQAAAAAdAAAAABAO" alt="https://www.linkedin.com/in/zeynepturnali/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/zeynepturnali23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/zeynepturnali23" height="30" width="40" /></a>
 </p>
 
