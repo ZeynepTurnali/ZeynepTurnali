@@ -25,5 +25,4 @@
 
 ![ZeynepTurnali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&theme=radical)
 
-![ZeynepTurnali's GitHub stats](https://github-readme-stats.vercel.app/api?username=azeynepturnali&hide=contribs,prs)
 
