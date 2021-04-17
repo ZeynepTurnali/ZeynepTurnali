@@ -23,6 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&locale=en&theme=tokyonight" alt="zeynepturnali" height="300" width="500" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zeynepturnali)](https://github.com/zeynepturnali/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
