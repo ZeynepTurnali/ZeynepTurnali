@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h1 align="center"> # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h1 align="center"> My name is Zeynep and I'm Test Automation Engineer</h1>
 
 - 🔭 I’m currently working on **TEB test automation projects as a consultant**
