@@ -1,7 +1,5 @@
 ## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Zeynep and I'm Test Automation Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeynepturnali" alt="zeynepturnali" /></a> </p>
-
 - 🔭 I’m currently working on **TEB test automation projects as a consultant**
 
 - 🌱 I’m currently learning **Swift and test automation technologies**
