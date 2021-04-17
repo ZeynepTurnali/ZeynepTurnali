@@ -21,8 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepturnali&show_icons=true&locale=en&layout=compact&theme=radical" alt="zeynepturnali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&locale=en&theme=radical" alt="zeynepturnali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&locale=en&theme=dark" alt="zeynepturnali" /></p>
 
-![ZeynepTurnali's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&theme=radical)
 
 
