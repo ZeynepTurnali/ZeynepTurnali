@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepturnali&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zeynepturnali" height="300" width="400"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&locale=en&theme=tokyonight" alt="zeynepturnali" height="500" width="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepturnali&show_icons=true&locale=en&theme=tokyonight" alt="zeynepturnali" height="400" width="400" /></p>
 
 
