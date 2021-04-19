@@ -1,4 +1,4 @@
-## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Zeynep and I'm Test Automation Engineer
+## Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Zeynep and I'm a Test Automation Engineer
 
 - 🔭 I’m currently working on **TEB test automation projects as a consultant**
 
