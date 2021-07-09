@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/zeynepturnali/" target="blank"><img align="center" src="file:///Users/bturnali/Downloads/Noun%20Project%20Search_files/2149767-200.png" alt="https://www.linkedin.com/in/zeynepturnali/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeynepturnali/" target="blank"><img align="center" src="https://cdn0.iconfinder.com/data/icons/social-hatched-block-set/512/linkedIn-256.png" alt="https://www.linkedin.com/in/zeynepturnali/" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/zeynepturnali23" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-64.png" alt="https://www.hackerrank.com/zeynepturnali23" height="40" width="40" /></a>
 </p>
 
